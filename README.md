@@ -8,7 +8,7 @@
 <ul> <a href="https://github.com/CoBlush/Vulnerability-Identification-and-Network-Mapping"> Vulnerability Mapping</a> </ul>
 <ul> <a href="https://github.com/CoBlush/-Autopsy-Forensic-Tool"> Digital Forensics </a> </ul>
 
-<h2>Certifications</h2>
+
 
 
 
